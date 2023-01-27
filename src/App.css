@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  color: aquamarine;
+}
+
+.Juan {
+  text-align: center;
+  color: coral;
+}
+
+.Mascota{
+  color: violet;
+  text-align: center;
 }
 
 .App-logo {
